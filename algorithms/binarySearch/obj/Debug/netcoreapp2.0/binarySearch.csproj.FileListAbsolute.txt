@@ -1,0 +1,10 @@
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\obj\Debug\netcoreapp2.0\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\obj\Debug\netcoreapp2.0\binarySearch.AssemblyInfoInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\obj\Debug\netcoreapp2.0\binarySearch.AssemblyInfo.cs
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\bin\Debug\netcoreapp2.0\binarySearch.deps.json
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\bin\Debug\netcoreapp2.0\binarySearch.runtimeconfig.json
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\bin\Debug\netcoreapp2.0\binarySearch.runtimeconfig.dev.json
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\bin\Debug\netcoreapp2.0\binarySearch.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\bin\Debug\netcoreapp2.0\binarySearch.pdb
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\obj\Debug\netcoreapp2.0\binarySearch.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\binarySearch\obj\Debug\netcoreapp2.0\binarySearch.pdb
