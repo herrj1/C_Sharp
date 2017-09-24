@@ -1,0 +1,10 @@
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\bin\Debug\netcoreapp2.0\mergeSort.deps.json
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\bin\Debug\netcoreapp2.0\mergeSort.runtimeconfig.json
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\bin\Debug\netcoreapp2.0\mergeSort.runtimeconfig.dev.json
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\bin\Debug\netcoreapp2.0\mergeSort.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\bin\Debug\netcoreapp2.0\mergeSort.pdb
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\obj\Debug\netcoreapp2.0\mergeSort.csproj.CoreCompileInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\obj\Debug\netcoreapp2.0\mergeSort.AssemblyInfoInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\obj\Debug\netcoreapp2.0\mergeSort.AssemblyInfo.cs
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\obj\Debug\netcoreapp2.0\mergeSort.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\mergeSort\obj\Debug\netcoreapp2.0\mergeSort.pdb
