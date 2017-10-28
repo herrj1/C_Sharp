@@ -1,0 +1,10 @@
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\bin\Debug\netcoreapp2.0\exchangeElements.deps.json
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\bin\Debug\netcoreapp2.0\exchangeElements.runtimeconfig.json
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\bin\Debug\netcoreapp2.0\exchangeElements.runtimeconfig.dev.json
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\bin\Debug\netcoreapp2.0\exchangeElements.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\bin\Debug\netcoreapp2.0\exchangeElements.pdb
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\obj\Debug\netcoreapp2.0\exchangeElements.csproj.CoreCompileInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\obj\Debug\netcoreapp2.0\exchangeElements.AssemblyInfoInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\obj\Debug\netcoreapp2.0\exchangeElements.AssemblyInfo.cs
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\obj\Debug\netcoreapp2.0\exchangeElements.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\exchangeElements\obj\Debug\netcoreapp2.0\exchangeElements.pdb
