@@ -1,0 +1,10 @@
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\bin\Debug\netcoreapp2.0\bubbleSort.deps.json
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\bin\Debug\netcoreapp2.0\bubbleSort.runtimeconfig.json
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\bin\Debug\netcoreapp2.0\bubbleSort.runtimeconfig.dev.json
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\bin\Debug\netcoreapp2.0\bubbleSort.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\bin\Debug\netcoreapp2.0\bubbleSort.pdb
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\obj\Debug\netcoreapp2.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\obj\Debug\netcoreapp2.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\obj\Debug\netcoreapp2.0\bubbleSort.AssemblyInfo.cs
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\obj\Debug\netcoreapp2.0\bubbleSort.dll
+C:\Users\swb\Documents\Projects\c#\algorithms\bubbleSort\obj\Debug\netcoreapp2.0\bubbleSort.pdb
