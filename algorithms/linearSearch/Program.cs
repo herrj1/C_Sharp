@@ -49,7 +49,7 @@ namespace linearSearch
 		
         static void Main(string[] args)
         {
-			const int nItems = 30;
+			const int nItems = 50;
 			Random rdn = new Random(nItems);
 			int[] xdata = new int[nItems];
 			MixDataUp(ref xdata, rdn);
