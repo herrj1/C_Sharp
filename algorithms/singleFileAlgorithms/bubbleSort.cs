@@ -1,4 +1,5 @@
-//Single function only
+//Single bubble sort function only
+//a driver program is still needed before using this implementation
 
 public void bubbleSort(){
 	int temp;
