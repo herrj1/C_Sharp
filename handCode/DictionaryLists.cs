@@ -4,7 +4,6 @@ using System.Collections.Generic;
 public class DictionaryLists{
 	public static void main(){
 		Dictionary<string, string> openWith = new Dictionary<string, string>();
-		
 		openWith.Add("txt", "notepad.exe");
 		openWith.Add("png", "paint.exe");
 		openWith.Add("docx", "word.exe");
