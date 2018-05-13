@@ -28,7 +28,6 @@ namespace GenericLinkedListT1{
 			Console.WriteLine(sVal);
 		}
 	}
-
 	public class GenericList<T>{
 		private class Node{
 			public Node Next;
