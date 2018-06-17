@@ -12,6 +12,5 @@ public class ClassTwo{
 
 public class Adapter : IAdapter{
 	private ClassTwo _class2 = new ClassTwo();
-	
 	public void Add(){ this._class2.Push();}
 }
