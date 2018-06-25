@@ -9,7 +9,6 @@ public class DictionaryLists{
 		openWith.Add("docx", "word.exe");
 		openWith.Add("xlsx", "excel.exe");
 		openWith.Add("pptx", "powerpoint.exe");
-		
 		try{
 			openWith.Add("txt", "winword.exe");
 		}catch(ArgumentException){
@@ -29,7 +28,7 @@ public class DictionaryLists{
 			Console.WriteLine("Key = \"tif\" is not found.");
 		}
 		
-		String value = "";
+		String value = " ";
 		if(openWith.TryGetValue("tif", out value)){
 			Console.WriteLine("For key = \"tif\", value = {0}.", value);
 		}else{
