@@ -54,9 +54,7 @@ namespace linearSearch
 			int[] xdata = new int[nItems];
 			MixDataUp(ref xdata, rdn);
 			DisplayElements(ref xdata, 'b', "");
-			
             Console.WriteLine("Linear search algorithm: ");
-			
 			int location = LinearSearch(ref xdata, xdata[5]);
 			if(location == -1)
 			{
