@@ -35,7 +35,7 @@ public class OnionPizzaDecorator{}
 
 public class CheesePizzaDecorator{}
 
-//Driver
+//Drivers
 class PizzaDecoratorPattern{
 	static void Main(string[] args){
 		ThickCrust thickCrust = new ThickCrust();
