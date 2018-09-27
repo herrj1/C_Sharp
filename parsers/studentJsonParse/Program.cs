@@ -14,6 +14,11 @@ namespace studentJsonParse{
 							  ""lastname"": ""Morales"",
 							  ""college"": ""Acme College"",
 							  ""studentid"": ""vb000455"" }";
+			var student4 = @"{""id"": 4, 
+			                  ""firstname"": ""Valerius"",
+							  ""lastname"": ""Roccy"",
+							  ""college"": ""Acme College"",
+							  ""studentid"": ""vb000451"" }";
 			var student3 = @"{""id"": 3, 
 			                  ""firstname"": ""Victor"",
 							  ""lastname"": ""Olives"",
