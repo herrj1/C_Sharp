@@ -5,7 +5,7 @@ namespace app1
 {
     class Program
     {
-		class Empty{}
+	class Empty{}
 		
         static void Main(string[] args)
         {
