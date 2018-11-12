@@ -7,7 +7,7 @@ namespace sqlClient
     class Program
     {
         static void Main(string[] args)
-        {
+        {		//The database was a Northwind 2008 version. A 2014 is also available.
 			string connectionString = "Data Source=(local); Initial Catalog=Northwind; Integrated Security=true";
 			string queryString = "SELECT ProductID, UnitPrice, ProductName from dbo.products WHERE UnitPrice > @pricePoint ORDER by UnitPrice DESC;";
 			
