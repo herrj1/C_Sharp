@@ -27,7 +27,7 @@ public class ConcreteFactory : AbstractFactories{
 	public override IFactoryOne GetFactoryOne(){
 		return new FactoryOne();
 	}
-	
+	//new object
 	public override IFactoryTwo GetFactoryTwo(){
 		return new FactoryTwo();
 	}

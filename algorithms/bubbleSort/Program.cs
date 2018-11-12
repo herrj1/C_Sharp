@@ -1,9 +1,7 @@
 ﻿using System;
 
 // dotnet new console -o bubbleSort
-
 // cd bubbleSort
-
 // dotnet run
 
 namespace bubbleSort
